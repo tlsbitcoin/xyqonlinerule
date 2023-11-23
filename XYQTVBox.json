@@ -1,18 +1,38 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
     "spider": "./custom_spider.jar;md5;71de3509aba374cdec13c22cbcce202f",
+    "comment": "多路直播配置只有蜂蜜影视支持",
     "lives": [
         {
-          "name": "在线",
+          "name": "默认在线",
           "type":"0",
           "pass": true,
           "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/live.txt",
-          //"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
-          //"url":"http://home.jundie.top:81/ray/tvlive.txt",
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "本地",
+          "name": "Yoursmile7",
+          "type":"0",
+          "pass": true,
+          "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "JUNDIE",
+          "type":"0",
+          "pass": true,
+          "url":"http://home.jundie.top:81/ray/tvlive.txt",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "fanmingming",
+          "type":"0",
+          "pass": true,
+          "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
+          "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },{
+          "name": "本地文件",
           "type":"0",
           "pass": true,
           "url":"http://127.0.0.1:9978/file/XYQTVBox/live.txt",
