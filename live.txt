@@ -108,6 +108,8 @@ CGTN西班牙语,https://livees.cgtn.com/1000e/prog_index.m3u8
 1905电影,http://nas.jdshipin.com:8801/1905.php?id=1905dy
 
 卫视,#genre#
+湖南卫视,https://live.metshop.top/hbgd.php?id=hnwshd_3000
+湖南卫视,http://hms404nc1972679596.live.aikan.miguvideo.com/wh7f454c46tw3323836088_848153885/wd-hunanhd-2500/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=8.210.232.168&timestamp=20231123154858&encrypt=8f32422ae4dc52e9e735cb21cca0c574&ContentId=265667721&timezone=UTC&mtv_session=c6102f5cd06e046018a394b9ced3db5c&icpid=88888888&RTS=1700754538&from=8&hms_devid=404&prioritypopid=8&online=1700754538
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
