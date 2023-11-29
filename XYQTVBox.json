@@ -1,7 +1,7 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
     "spider": "./custom_spider.jar;md5;8777579565f59bf4cfa669378459b030",
-    "comment": "多路直播配置只有蜂蜜影视支持",
+    "comment": "多路直播配置只有影迷和Fongmi影视支持",
     "lives": [
         {
           "name": "默认在线",
@@ -25,7 +25,7 @@
           "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },{
-          "name": "fanmingming",
+          "name": "FMM(IPV6)",
           "type":"0",
           "pass": true,
           "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
@@ -101,7 +101,7 @@
         {"key": "csp_XYQHiker_播视童趣","name":"播视童趣(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/播视童趣.json"},
         {"key":"emofun","name":"EmoFun","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://one3.emofun.top/mogai_api.php/v1.vod"},
         {"key": "csp_XYQHiker_異世界動漫","name":"異世界動漫(HM2)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/異世界動漫.json"},
-        //{"key": "csp_XYQHiker_有声小说吧","name":"有声小说吧(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/有声小说吧.json"},
+        {"key": "csp_XYQHiker_有声小说吧","name":"有声小说吧(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/有声小说吧.json"},
         {"key": "csp_XYQHiker_DJ呦呦音乐网","name":"🎧DJ呦呦音乐网(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/DJ呦呦音乐网.json"},
         {"key": "csp_XYQHiker_酷奇MV","name":"酷奇MV(XYQH)","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"./XYQHiker/酷奇MV.json"},
         
